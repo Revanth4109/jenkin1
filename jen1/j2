@@ -1,0 +1,5 @@
+def show_tasks(tasks):
+    """Displays the list of tasks."""
+    if not tasks:
+        print("\nNo tasks available.")
+    else:
